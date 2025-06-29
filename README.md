@@ -12,6 +12,10 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/Unnatii-hub/Cpp_calculator.git# Cpp_calculator
-2.g++ scientific_calculator.cpp -o calculator
-.3./calculator
+
+2.compile the file
+g++ scientific_calculator.cpp -o calculator
+
+3.Run
+./calculator
 
